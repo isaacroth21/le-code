@@ -6,12 +6,14 @@ This is a list of python programing assignements and projects, here you you find
 
 
 
-
 this is a simple python file editor.            
 https://replit.com/@ISAACROTH/file-editer#main.py
 
 this is a clock that tells you how many ticks it has been since a certain date.        
 https://replit.com/@ISAACROTH/its-a-date#main.py
+
+this code, when ran, will give you the exact hour,minute,and seconds.         
+https://replit.com/@ISAACROTH/its-a-date-2#main.py
 
 group projects
 
